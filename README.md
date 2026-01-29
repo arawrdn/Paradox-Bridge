@@ -13,7 +13,7 @@ Paradox Bridge is an experimental dApp that connects EVM and Solana networks, cr
 
 ## Tech Stack
 - Frontend: React + Vite + Tailwind
-- EVM:Solidity
+- EVM: Hardhat + Solidity
 - Solana: Anchor placeholder (state sync)
 - Auth: Firebase Google Sign-In
 - Styling: Tailwind CSS + Framer Motion
